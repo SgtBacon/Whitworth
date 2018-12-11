@@ -1,0 +1,5 @@
+You successfully wipe! Yay!
+Press 1 to wipe again.
+Press 2 to flush.
+Press 3 leave the stall.
+Press 0 to end the game.

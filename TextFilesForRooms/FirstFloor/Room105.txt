@@ -1,0 +1,7 @@
+You enter Room 105. You wade through a waist-high pile of Coke cans to talk to a strange hermit 
+sitting on a couch, surrounded by even more Coke cans. He says "Hey man, you want a Coke? They're not mine
+but their owner wouldn't mind if you had one or two." You nod and take one. It is crisp and refreshing.
+This drink is the pinnacle of innovation.
+Press 1 to have another Coke.
+Press 2 to enter the Hallway.
+Press 0 to end the game.

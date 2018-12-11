@@ -1,0 +1,4 @@
+You successfully used the bathroom! Congratulations, you're not a toddler!
+Press 1 to wipe.
+Press 2 to leave without wiping. I am judging you. Please wash your hands.
+Press 0 to end the game.

@@ -1,0 +1,9 @@
+You cannot enter this room.
+You look through the glass and notice gold and silver piled mountains high, waiting for you.
+Perhaps you shall return here later, when no one is around.
+Hey I'm not saying break in or anything,
+but if a little bit of gold goes missing, who would notice?
+Press 1 to mark this Room in your memory for later and go back to your adventure.
+Press 2 to know that theft is wrong and go back to your adventure.
+Press 3 to punch the glass and see if it breaks. Stealth is for wusses.
+Press 0 to end the game.

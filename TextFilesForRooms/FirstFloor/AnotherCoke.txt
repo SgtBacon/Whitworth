@@ -1,0 +1,5 @@
+You have another Coke. It is delicious. How many of these are you going to have?
+They are good...
+Press 1 to have another Coke.
+Press 2 to enter the Hallway.
+Press 0 to end the game.

@@ -1,0 +1,8 @@
+You stand at the base of the shaft. You can enter Rooms 103, 104, and 109. Or you can go back into the lobby. 
+Maybe those people playing that card game want you to join them. Maybe they will be your best friends.
+Press 1 to enter Room 103.
+Press 2 to enter Room 104.
+Press 3 to enter Room 109.
+Press 4 to continue down the Shaft.
+Press 5 to enter the Lobby.
+Press 0 to end the game.

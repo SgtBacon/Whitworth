@@ -1,0 +1,9 @@
+You stand in the lobby of the strange building. Eight people sit around on couches playing a card game and 
+yelling nonsense about banging each other. To your left is a hallway, to your right is another hallway, 
+and in front of you is, you guessed it, another hallway. 
+Press 1 to attempt to communicate with these people.
+Press 2 to enter the hallway to your left.
+Press 3 to enter the hallway to your right.
+Press 4 to enter the hallway in front of you.
+Press 5 to return to the entrance.
+Press 0 to end the game.

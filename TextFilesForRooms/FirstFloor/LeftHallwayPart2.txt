@@ -1,0 +1,7 @@
+You enter the last stretch of this hallway. On your left is Room 112. 
+On your right are rooms 110 and 111. Nothing seems to be happening in this hallway. 
+Press 1 to enter Room 110.
+Press 2 to enter Room 111.
+Press 3 to enter Room 112.
+Press 4 to return the first half of the Hallway.
+Press 0 to end the game.

@@ -1,0 +1,6 @@
+You stand in front of McMillan Hall, the best dorm on campus, but its large door stands open, seemingly waiting for you. 
+Behind you is an open campus that does not interest you.
+You do not have many options on what to do from here.
+Press 1 to go inside the building.
+Press 2 to turn back and try to leave.
+Press 0 at any time to quit.

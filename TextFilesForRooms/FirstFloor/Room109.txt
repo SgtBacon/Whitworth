@@ -1,0 +1,7 @@
+You enter Room 109. Someone with a crown begins to demand that you bow before the king. 
+You decide to bow, as you do not understand the formal government of McMillan yet.
+Your new King places a sword against each of your shoulders, declaring 
+"You are now Sir McMillan, my new champion! Now go, and extend my rule to all other dorm halls. 
+They must feel the glory of Mac within their bones! Go!"
+Press 1 to continue with your new title!
+Press 0 to end the game.

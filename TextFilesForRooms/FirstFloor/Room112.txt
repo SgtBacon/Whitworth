@@ -1,0 +1,3 @@
+Room 112 is locked for now. You must gather 3 keys to enter the Room eventually. Ignore this for now.
+Press 1 to continue your journey.
+Press 0 to end the game.

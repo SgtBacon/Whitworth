@@ -1,0 +1,6 @@
+You attempt to open the door to Room 107. Unfortunately, as you open the door, 10 articles of clothing fall out.
+You try to push the door farther but it hits something solid. Someone inside is silently sobbing.
+They have become one with the clothes heap. It has achieved sentience and is heading towards world domination.
+This is a problem for another day.
+Press 1 to shut the door and continue on.
+Press 0 to end the game.

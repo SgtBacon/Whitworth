@@ -1,0 +1,6 @@
+You enter the strange building. To your left is a staircase leading to the second floor with a sign that says "under construction", 
+to your right is an unknown room, and in front of you is what looks to be a lobby.
+Press 1 to enter the unknown room.
+Press 2 to enter the lobby.
+Press 3 to leave the building.
+Press 0 to end the game.

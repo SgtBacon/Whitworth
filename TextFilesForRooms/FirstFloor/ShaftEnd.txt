@@ -1,0 +1,8 @@
+You stand at the precipice, at the very tip of the Shaft. You giggle to yourself.  
+You may enter Rooms 105, 106, and 107.
+Press 1 to enter Room 105.
+Press 2 to enter Room 106.
+Press 3 to enter Room 107.
+Press 4 to enter Room 108.
+Press 5 to go back to the base of the shaft.
+Press 0 to end the game.

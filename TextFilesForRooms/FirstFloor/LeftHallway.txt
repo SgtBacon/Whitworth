@@ -1,0 +1,9 @@
+You enter the hallway. On your left is a stair case guarded by a large man in a small crop top. He says "Sorry, DnD game devolved 
+into something else... Hostage negotiaters don't want anyone going down there until they know everyone is secure. 
+Try again later." Past the stairs are two rooms, Room 113 and Room 114. Ahead of you are some dorm rooms and to your right is the bathroom.
+Press 1 to enter the bathroom.
+Press 2 to enter Room 113.
+Press 3 to enter Room 114.
+Press 4 to continue down the hallway.
+Press 5 to return to the lobby.
+Press 0 to quit the game. 

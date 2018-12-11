@@ -1,0 +1,8 @@
+You enter the unknown room and find piles of junk all around. Is it possible you have entered a new dimension? 
+One where this junk is riches to a monster of unbelievable size. Or maybe you have stumbled upon a nest 
+belonging to a subterrainian race of rat people that use McMillan as a feeding ground. 
+Or, more likely, people just leave their junk out and it is thrown in here and forgotton. 
+You prefer the first and second options.
+Press 1 to search for the rat people.
+Press 2 to return to entrance hall.
+Press 0 to end the game.

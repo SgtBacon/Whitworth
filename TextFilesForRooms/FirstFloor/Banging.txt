@@ -1,0 +1,7 @@
+You attempt to talk to the group of eight card players. They get a strange look in their eyes and ask you repeatedly if you want to play.
+You feel uncomfortable.
+You wish you had ignored them.
+They wish you would join them.
+You do not join them.
+Press 1 to return to your hallway debate.
+Press 0 to end the game.

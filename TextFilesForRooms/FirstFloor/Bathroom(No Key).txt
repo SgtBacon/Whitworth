@@ -1,0 +1,5 @@
+You enter the first floor bathroom. You can hear several voices coming from the shower. You make a mental note to not shower for awhile.
+You can recall taking a large key from this room. 
+Press 1 to leave and enter the hallway.
+Press 2 to use the bathroom.
+Press 0 to end the game.

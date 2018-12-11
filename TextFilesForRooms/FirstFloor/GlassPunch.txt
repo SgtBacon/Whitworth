@@ -1,0 +1,6 @@
+You punch the glass.
+It does not break.
+Your hand might be broken however.
+You do feel a little better about your... "valiant" attempt to steal from the kingdom of McMillan.
+Press 1 to continue down the hallway.
+Press 0 to end the game.

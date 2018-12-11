@@ -1,0 +1,6 @@
+You throw piles of junk all around, searching for any trace of the rat people. 
+You think you find their feces at one point, but upon closer inspection, you believe it to be human.
+You back away slowly.
+That was not worth the search.
+Press 1 to continue your adventure.
+Press 0 to end the game.
